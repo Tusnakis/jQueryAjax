@@ -1,0 +1,7 @@
+[
+    {"nombre": "Pepe","edad":25,"email":"pepe@email.com","telefono":"111111111"},
+    {"nombre": "Sofia","edad":30,"email":"sofia@email.com","telefono":"222222222"},
+    {"nombre": "Rosa","edad":22,"email":"rosa@email.com","telefono":"333333333"},
+    {"nombre": "Felipe","edad":37,"email":"felipe@email.com","telefono":"333333333"},
+    {"nombre": "Adela","edad":34,"email":"adela@email.com","telefono":"333333333"}
+]
